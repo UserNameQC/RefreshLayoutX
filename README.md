@@ -161,3 +161,5 @@ SmartRefreshLayout 不需要添加混淆过滤代码，并且已经混淆测试�
 [Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)  
 [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)  
 [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout)
+
+## 感谢作者的贡献，多谢多谢。如有冒犯，请通知本人，立即删除。
